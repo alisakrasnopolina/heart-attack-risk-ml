@@ -36,8 +36,8 @@ project/
 │   ├── requirements.txt         # зависимости проекта
 │   │
 │   ├── templates/
-│   │   ├── start_form.html      # HTML-форма ввода данных пациента
-│   │   └── res_form.html        # страница результата
+│   │   ├── upload_form.html      # HTML-форма ввода данных пациента
+│   │   └── result.html        # страница результата
 │   │
 │   ├── Dockerfile               # билд приложения в Docker
 │   └── docker-compose.yml       # запуск через Docker Compose
