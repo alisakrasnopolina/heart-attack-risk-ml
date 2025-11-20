@@ -121,8 +121,6 @@ git clone https://github.com/alisakrasnopolina/heart-attack-risk-ml.git
 cd heart_api
 ```
 
----
-
 4. Создайте виртуальное окружение:
 
 ### Windows:
@@ -139,23 +137,17 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
----
-
 5. Установите зависимости:
 
 ```bash
 pip install -r requirements.txt
 ```
 
----
-
 6. Запустите приложение:
 
 ```bash
 uvicorn app:app --reload
 ```
-
----
 
 7. Откройте в браузере:
 
