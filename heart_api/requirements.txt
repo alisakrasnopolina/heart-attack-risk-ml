@@ -6,7 +6,7 @@ numpy
 pandas
 joblib
 scikit-learn==1.5.2
-xgboost
-lightgbm
-catboost
+xgboost==2.0.3
+lightgbm==4.6.0
+catboost==1.2.8
 python-multipart
